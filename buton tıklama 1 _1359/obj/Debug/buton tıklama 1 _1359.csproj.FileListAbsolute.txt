@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\bin\Debug\buton tıklama 1 _1359.exe.config
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\bin\Debug\buton tıklama 1 _1359.exe
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\bin\Debug\buton tıklama 1 _1359.pdb
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\obj\Debug\buton tıklama 1 _1359.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\obj\Debug\buton tıklama 1 _1359.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\obj\Debug\buton_tıklama_1__1359.Form1.resources
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\obj\Debug\buton_tıklama_1__1359.Properties.Resources.resources
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\obj\Debug\buton tıklama 1 _1359.csproj.GenerateResource.cache
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\obj\Debug\buton tıklama 1 _1359.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\obj\Debug\buton tıklama 1 _1359.exe
+C:\Users\User\source\repos\buton tıklama 1 _1359\buton tıklama 1 _1359\obj\Debug\buton tıklama 1 _1359.pdb
